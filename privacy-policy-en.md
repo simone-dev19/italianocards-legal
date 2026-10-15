@@ -1,0 +1,62 @@
+---
+layout: default
+title: Privacy Policy — ItalianoCards
+---
+
+# Privacy Policy — ItalianoCards
+
+**Last updated:** 14 October 2026
+**App:** ItalianoCards (iOS)
+**Contact email:** simonepirovanog@gmail.com
+
+---
+
+## In short
+
+ItalianoCards **collects no data**. Everything you do in the app stays on your device.
+
+There is no account, no sign-up and no app server. The app sends nothing to its author.
+
+The only feature that may use the internet is the pronunciation check, which goes through Apple's speech recognition and only starts when you tap the microphone (see below).
+
+No usage analytics, no tracking, no advertising, no third-party services inside the app.
+
+## What is stored on the device
+
+Your progress (which words you have seen, how you answered, when), the history of your study days and your settings.
+
+This data lives in the app's storage on the phone. It may be included in the device backup managed by Apple (iCloud or computer), according to your iOS settings. The app's author does not see or receive it.
+
+## Notifications
+
+If you turn on the daily reminder, the app schedules a local notification on the phone at the time you choose. It goes through no server. You can turn it off in the app's settings or in iOS Settings.
+
+## Pronunciation
+
+The listen buttons use the iOS speech synthesis with the voices installed on the device.
+
+## Microphone and speech recognition
+
+The pronunciation check uses the microphone and Apple's speech recognition. They only turn on when you tap the microphone button and turn off when you have finished speaking. The first time, iOS asks for your permission; you can withdraw it at any time in Settings > Privacy & Security > Microphone and > Speech Recognition.
+
+What you say is turned into text by Apple. Depending on the device, the language and your iOS settings, this may happen on the phone or the audio may be sent to Apple's servers: the app does not force on-device-only processing. What Apple does with this data is covered by Apple's own policy ([Siri, Dictation & Privacy](https://www.apple.com/legal/privacy/data/en/ask-siri-dictation/)).
+
+The recognised text is only used to compare it, there and then, with the word you are practising. The app does not record or store the audio or the text, and does not send them to the app's author.
+
+## Deleting or taking your data with you
+
+"Repartir de zéro" (Start from zero) in Settings deletes progress and history. Uninstalling the app deletes everything.
+
+"Exporter les progrès" (Export progress) gives you a file with your data, which you can keep or import on another device.
+
+## Children
+
+The app collects no data from anyone, children included.
+
+## Changes to this policy
+
+If this policy changes, the new version is published on this page with an updated date.
+
+## Contact
+
+For questions about this policy or for support: **[simonepirovanog@gmail.com](mailto:simonepirovanog@gmail.com)**

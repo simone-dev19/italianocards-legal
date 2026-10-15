@@ -1,0 +1,11 @@
+title: ItalianoCards — Legal
+description: Politique de confidentialité et assistance de l'app ItalianoCards
+theme: jekyll-theme-minimal
+markdown: kramdown
+permalink: /:basename
+show_downloads: false
+exclude:
+  - README.md
+  - AGENTS.md
+  - LOG_AI.md
+  - _config.yml
